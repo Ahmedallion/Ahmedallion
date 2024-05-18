@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tamim Ahmed!
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning python.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: A cloud weighs around a million tonnes. idk.
